@@ -6,3 +6,6 @@ This is a simple server Interface frame about JavaEE.Use mysql database to save
 Swagger URL:http://localhost:8080/show/api/index.html (if you don't set tomcat default port)
 
 Tip: if you use eclipse to start server，the first time you started will be down ,then you need try to start second times. 
+
+
+if some people want to updata this project, please updata to master branch. Thank you very much !
